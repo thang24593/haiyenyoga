@@ -8,3 +8,19 @@
  * Version: 1.0
  */
 @import url("../yosemite-lite/style.css");
+
+.sidebar-footer {
+  padding: 0;
+}
+.jetpack-social-navigation {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.site-footer .menu {
+  margin: -7px 0 27px;
+  padding: 0 0 20px;
+}
